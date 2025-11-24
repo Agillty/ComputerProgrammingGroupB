@@ -1,6 +1,10 @@
 #include<stdio.h>
 
 int add(int x, int y);
+int sub(int x, int y);
+int mult(int x, int y);
+
+
 int main() {
     int a = 5;
     int b = 10;
